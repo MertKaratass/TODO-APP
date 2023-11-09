@@ -66,3 +66,9 @@ li .fa-trash-can {
   border: none;
   background-color: transparent;
 }
+
+.btn-remove {
+  color: red;
+  border: none;
+  background-color: transparent;
+}
